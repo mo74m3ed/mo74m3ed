@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![Rimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo74m3ed&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo74m3ed&show_icons=true&theme=default&hide_border=true)
 
 ## 📫 Get in Touch
 
