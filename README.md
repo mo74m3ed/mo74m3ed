@@ -27,6 +27,48 @@ Welcome to my GitHub profile!
 - 🛠️ Experienced with debugging tools and techniques
 - 📝 Writing clean, maintainable code
 
+## Quickstart for GitHub REST API
+
+Learn how to get started with the GitHub REST API.
+
+### Introduction
+
+This quickstart shows how to make a simple GitHub REST API request with GitHub CLI, `curl`, or JavaScript. For a more detailed guide, see [Getting started with the REST API](https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api).
+
+### Using GitHub CLI
+
+```bash
+gh auth login
+gh api /octocat --method GET
+```
+
+### Using curl
+
+```bash
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/octocat
+```
+
+### Using JavaScript
+
+```js
+const response = await fetch("https://api.github.com/octocat", {
+  headers: {
+    Accept: "application/vnd.github+json",
+    "X-GitHub-Api-Version": "2022-11-28",
+  },
+});
+
+const data = await response.text();
+console.log(data);
+```
+
+### Next steps
+
+For a more detailed guide, see [Getting started with the REST API](https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api).
+
 ## 📫 Get in Touch
 
 Feel free to reach out or explore my repositories!
