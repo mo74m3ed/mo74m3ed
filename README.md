@@ -21,6 +21,12 @@ Welcome to my GitHub profile!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo74m3ed&show_icons=true&theme=default&hide_border=true)
 
+## 🐛 Debugging & Problem Solving
+
+- 🔍 Enjoy diving deep into complex problems
+- 🛠️ Experienced with debugging tools and techniques
+- 📝 Writing clean, maintainable code
+
 ## 📫 Get in Touch
 
 Feel free to reach out or explore my repositories!
