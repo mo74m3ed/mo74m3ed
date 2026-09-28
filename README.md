@@ -1,6 +1,6 @@
-        # Hi there, I'm Rimal 👋
+# Hi there, I'm Rimal 👋
 
-Welcome     to my GitHub profile!
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
@@ -8,5 +8,3 @@ Welcome     to my GitHub profile!
 - 🌱 Always learning and growing
 - 🤝 Open to collaborating on interesting projects
 - 🔭 Exploring new technologies and building cool things
-
-## 🛠️ Technologies & Tools
