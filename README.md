@@ -1,4 +1,4 @@
-        # Hi there, I'm Rimal 👋
+        # Hi there, I'm Mohammed Al Rimal 👋
 
 Welcome     to my GitHub profile!
 
